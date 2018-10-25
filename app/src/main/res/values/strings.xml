@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marcador de Truco</string>
+    <string name="back">VOLTAR</string>
+    <string name="reset">ZERAR</string>
+</resources>
